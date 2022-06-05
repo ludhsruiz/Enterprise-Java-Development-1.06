@@ -1,0 +1,10 @@
+Employee Ana works in the Lawyer department. The salary of this position in Sevilla is 20000 euros.
+ EmployeeJesus works in the Administrative department. The salary of this position in Sevilla is 30000 euros.
+ Employee Javier works in the IT Developement department. The salary of this position in Cádiz is 20000 euros.
+ EmployeeMario works in the Full Stack department. The salary of this position in Madrid is 22000 euros.
+ EmployeeHelena works in the Front-end department. The salary of this position in Huelva is 20000 euros.
+ EmployeePrado works in the Psicology department. The salary of this position in Ciudad Real is 19000 euros.
+ EmployeeInes works in the Advertising department. The salary of this position in Vitoria is 20000 euros.
+ EmployeeIrene works in the Medical department. The salary of this position in Barcelona is 23000 euros.
+ EmployeeCesar works in the Marketing department. The salary of this position in Carrion de Cva is 45000 euros.
+ EmployeeMarc works in the Advertising department. The salary of this position in Vitoria is 18000 euros.
